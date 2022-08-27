@@ -1,0 +1,1 @@
+# ALPR-using-Python-and-EasyOCR
